@@ -68,6 +68,3 @@ def describe_image(image_path):
 
 
 
-
-image_path = "WhatsApp Image 2025-04-28 at 12.06.43.jpeg"
-print(describe_image(image_path))
